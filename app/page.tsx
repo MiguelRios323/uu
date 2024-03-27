@@ -9,7 +9,7 @@ export default function Home() {
       <div className="footer">
         <hr />
         <p className="text-center mt-2 text-lg">
-          Oficina del Presidente electo de la República Argentina
+          Oficina de la libertad avanza alejandra
         </p>
       </div>
     </div>
