@@ -9,7 +9,7 @@ export default function Generator() {
         </a>
       </div>
       <p className="text-center uppercase font-semibold text-xl mb-10">
-        Comunicado de Prensa
+        Comunicado Oficial
       </p>
       <div className="text-lg" contentEditable="true">
         <p>
